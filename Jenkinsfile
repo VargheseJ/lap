@@ -11,7 +11,7 @@ pipeline {
                 echo 'successfull'
             }
         }
-     stages {
+    
         stage('building') {
             steps {
             echo 'successfull'
